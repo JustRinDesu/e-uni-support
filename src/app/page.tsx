@@ -1,5 +1,7 @@
 import Form from 'next/form'
- 
+
+import SignIn from "@app/components/sign-in"
+
 export default function Page() {
   return (
     <main
@@ -8,9 +10,8 @@ export default function Page() {
     >
       <h1 className="text-3xl font-bold mb-4">Home</h1>
 
-        <p className="text-gray-700">
-          Test
-        </p>
+        
+
     </main>
   )
 }

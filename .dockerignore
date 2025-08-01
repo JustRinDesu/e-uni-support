@@ -6,3 +6,4 @@ README.md
 .next
 .git
 docker-compose.yml
+.env.local

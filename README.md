@@ -17,7 +17,7 @@ docker compose up --build
 ## Todo Features
 
 - [ ] Database Schema
-- [ ] Auth (Next-Auth)
+- [x] Auth.js
 - [ ] Forum
 - [ ] AI-Chatbot
 

@@ -35,6 +35,8 @@ export default function RootLayout({
           <Link href="/" style={{ textDecoration: "none", color: "inherit" }}>Home</Link>
           <Link href="/about" style={{ textDecoration: "none", color: "inherit" }}>About</Link>
           <Link href="/contact" style={{ textDecoration: "none", color: "inherit" }}>Contact</Link>
+          <Link href="/my-account" style={{ textDecoration: "none", color: "inherit" }}>My Account</Link>
+          <Link href="/login" style={{ textDecoration: "none", color: "inherit" }}>Login</Link>
         </nav>
         {children}
       </body>
